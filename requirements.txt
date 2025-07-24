@@ -3,4 +3,4 @@ pandas
 matplotlib
 seaborn
 plotly 
-git add requirements.txt
+scikit-learn
